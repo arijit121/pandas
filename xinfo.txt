@@ -1,0 +1,1133 @@
+*************************************
+* Xilinx XInfo System Information Report
+* XInfo log file started on: 2019/08/04 23:17:10
+*************************************
+
+
+*************************************
+* System Information:
+*************************************
+Hostname: DESKTOP-DEH4JOP
+Network Interface Card ID: 84a93e380267,d0c5d33e14f3
+C: Drive Serial Number: 5cb8b121
+FLEXID Dongle ID: 
+Architecture: x86
+Platform: Windows NT
+Operating System: Windows 10 Enterprise
+Version: 6.3
+Current Build Number: 17134
+Service Level: Not Success
+Product ID: Not S-ucc-ess
+Registered Organization: 
+Registered Owner: Windows User
+System Root: C:\WINDOWS
+Architecture: Intel based
+Processor Type: Pentium Class
+Processor Speed: ~1800 MHz
+Processor Detail: Vendor: GenuineIntel - Family: 6 - Model: 14 - Stepping: 10
+Processor Count: 8
+Current User Name: HP
+Current User Permission: Administrator
+Available space on drive C:\ (HD - NTFS): 21.79 GB of 110.25 GB
+Available space on drive D:\ (HD - NTFS): 311.56 GB of 443.23 GB
+Available space on drive E:\ (HD - NTFS): 474.62 GB of 488.28 GB
+Physical Memory: 4194303 KB
+Available Physical Memory: 3262128 KB
+Swap File: 4194303 KB
+Available Swap File: 3165988 KB
+Total Virtual: 4194176 KB
+Available Virtual: 4045980 KB
+: 
+: 
+: 
+
+*************************************
+* Software Environment:
+*************************************
+Default Web Browser: "C:\Program Files\Internet Explorer\IEXPLORE.EXE" %1
+ALLUSERSPROFILE: C:\ProgramData
+APPDATA: C:\Users\HP\AppData\Roaming
+CommonProgramFiles: C:\Program Files (x86)\Common Files
+CommonProgramFiles(x86): C:\Program Files (x86)\Common Files
+CommonProgramW6432: C:\Program Files\Common Files
+COMPUTERNAME: DESKTOP-DEH4JOP
+ComSpec: C:\WINDOWS\system32\cmd.exe
+DriverData: C:\Windows\System32\Drivers\DriverData
+HOMEDRIVE: C:
+HOMEPATH: \Users\HP
+LOCALAPPDATA: C:\Users\HP\AppData\Local
+LOGONSERVER: \\DESKTOP-DEH4JOP
+NO_XILINX_DATA_LICENSE: HIDDEN
+NUMBER_OF_PROCESSORS: 8
+OneDrive: C:\Users\HP\OneDrive
+OneDriveConsumer: C:\Users\HP\OneDrive
+OS: Windows_NT
+Path: C:\Xilinx\14.2\ISE_DS\common\\lib\nt;C:\Xilinx\14.2\ISE_DS\ISE\lib\nt;C:\Xilinx\14.2\ISE_DS\common\\bin\nt;C:\Xilinx\14.2\ISE_DS\ISE\bin\nt;C:\Xilinx\Vivado\2012.2\bin;C:\Xilinx\14.2\ISE_DS\PlanAhead\bin;C:\Xilinx\14.2\ISE_DS\EDK\bin\nt;C:\Xilinx\14.2\ISE_DS\EDK\lib\nt;C:\Xilinx\14.2\ISE_DS\EDK\gnu\microblaze\nt\bin;C:\Xilinx\14.2\ISE_DS\EDK\gnu\powerpc-eabi\nt\bin;C:\Xilinx\14.2\ISE_DS\EDK\gnuwin\bin;C:\Xilinx\14.2\ISE_DS\EDK\gnu\arm\nt\bin;C:\Xilinx\14.2\ISE_DS\common\bin\nt;C:\Xilinx\14.2\ISE_DS\common\lib\nt;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%SYSTEMROOT%\System32\OpenSSH\;C:\Program Files\MATLAB\R2018b\runtime\win64;C:\Program Files\MATLAB\R2018b\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\HP\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2018.3.2\bin
+PATHEXT: .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE: x86
+PROCESSOR_ARCHITEW6432: AMD64
+PROCESSOR_IDENTIFIER: Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+PROCESSOR_LEVEL: 6
+PROCESSOR_REVISION: 8e0a
+ProgramData: C:\ProgramData
+ProgramFiles: C:\Program Files (x86)
+ProgramFiles(x86): C:\Program Files (x86)
+ProgramW6432: C:\Program Files
+PROMPT: $P$G
+PSModulePath: C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC: C:\Users\Public
+PyCharm Community Edition: C:\Program Files\JetBrains\PyCharm Community Edition 2018.3.2\bin;
+SESSIONNAME: Console
+SystemDrive: C:
+SystemRoot: C:\WINDOWS
+TEMP: C:\Users\HP\AppData\Local\Temp
+TMP: C:\Users\HP\AppData\Local\Temp
+USERDOMAIN: DESKTOP-DEH4JOP
+USERDOMAIN_ROAMINGPROFILE: DESKTOP-DEH4JOP
+USERNAME: HP
+USERPROFILE: C:\Users\HP
+windir: C:\WINDOWS
+XILINX: C:\Xilinx\14.2\ISE_DS\common\;C:\Xilinx\14.2\ISE_DS\ISE
+XILINX_DSP: C:\Xilinx\14.2\ISE_DS\ISE
+XILINX_EDK: C:\Xilinx\14.2\ISE_DS\EDK
+XILINX_PLANAHEAD: C:\Xilinx\14.2\ISE_DS\PlanAhead
+XILINX_VIVADO: C:\Xilinx\Vivado\2012.2
+xlnxInstLocList:  common EDK common/CodeSourcery PlanAhead ../../Vivado/2012.2 ISE ../../Vivado_HLS/2012.2
+
+*************************************
+* fileset.txt(s):
+*************************************
+Sun Aug 04 22:23:23 TZ 2019::  product=EDK
+Sun Aug 04 22:23:23 TZ 2019::  version=14.2
+Sun Aug 04 22:23:23 TZ 2019::  imageBuildVersion=P.28xd.3.0
+Sun Aug 04 22:23:23 TZ 2019::  summary=Install Location: C:\Xilinx\14.2\ISE_DS\EDK
+Sun Aug 04 22:23:23 TZ 2019::  summary=Module: EDK
+
+
+Sun Aug 04 22:34:14 TZ 2019::  product=ISE
+Sun Aug 04 22:34:14 TZ 2019::  version=14.2
+Sun Aug 04 22:34:14 TZ 2019::  imageBuildVersion=P.28xd.3.0
+Sun Aug 04 22:34:14 TZ 2019::  summary=Install Location: C:\Xilinx\14.2\ISE_DS\ISE
+Sun Aug 04 22:34:14 TZ 2019::  summary=Module: Design Environment Tools
+Sun Aug 04 22:34:14 TZ 2019::  summary=Module: Edition Devices
+Sun Aug 04 22:34:14 TZ 2019::  summary=Module: WebPACK Devices
+
+
+Sun Aug 04 22:22:42 TZ 2019::  product=ISE DS Common
+Sun Aug 04 22:22:42 TZ 2019::  version=14.2
+Sun Aug 04 22:22:42 TZ 2019::  imageBuildVersion=P.28xd.3.0
+Sun Aug 04 22:22:42 TZ 2019::  summary=Install Location: C:\Xilinx\14.2\ISE_DS\common
+Sun Aug 04 22:22:42 TZ 2019::  summary=Module: ISE DS Common
+
+
+Sun Aug 04 22:24:48 TZ 2019::  product=PlanAhead Analysis Tool
+Sun Aug 04 22:24:48 TZ 2019::  version=14.2
+Sun Aug 04 22:24:48 TZ 2019::  imageBuildVersion=P.28xd.3.0
+Sun Aug 04 22:24:48 TZ 2019::  summary=Install Location: C:\Xilinx\14.2\ISE_DS\PlanAhead
+Sun Aug 04 22:24:48 TZ 2019::  summary=Module: PlanAhead Common Files
+
+
+Unable to open C:\Xilinx\14.2\ISE_DS\SysGen\fileset.txt for reading!
+
+
+*************************************
+* install.log(s):
+*************************************
+INFO ::Sun Aug 04 22:21:58 TZ 2019:: Console message preference has been changed to INFO 
+INFO ::Sun Aug 04 22:21:58 TZ 2019:: Xilinx Installer/Updater launched.
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Install Location: C:\Xilinx\14.2\ISE_DS
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Program Group: Xilinx Design Tools
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Option: Acquire or Manage a License Key
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Edition : ISE Design Suite System Edition + Vivado System Edition
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: ISE DS Common
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Install Location: common
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Module: ISE DS Common
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Option: Script to install VC++ runtime libraries for 32-bit OS
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: EDK
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Install Location: EDK
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Module: EDK
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Option: Sourcery CodeBench Lite for Xilinx Cortex-A9 GNU/Linux
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Option: Sourcery CodeBench Lite for Xilinx Cortex-A9 EABI
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Mentor Embedded
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Install Location: common/CodeSourcery
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Module: Mentor Embedded IO
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: PlanAhead Analysis Tool
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Install Location: PlanAhead
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Module: PlanAhead Common Files
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Option: setupEnv.bat
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Vivado
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Install Location: ../../Vivado/2012.2
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Module: Vivado files
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Option: Create Vivado Launch Folder
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: ISE
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Install Location: ISE
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Module: Design Environment Tools
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Module: Edition Devices
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Module: WebPACK Devices
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Option: Install WinPCap for Ethernet Hardware Co-simulation
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Option: Install Windows System Generator Info XML
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Option: Install MSVC 2005 Redistributable Files
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Option: Install Cable Drivers
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Option: Enable WebTalk to send software, IP and device usage statistics to Xilinx (Always enabled for WebPACK license)
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Option: Initialize DocNav Install
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Option: Install Xilinx Documentation Navigator
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Option: Remove Windows DocNav Init File
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Option: Configure WebTalk
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: System Generator
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Install Location: SysGen
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Module: System Generator
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Option: Install Windows System Generator into MATLAB
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Option: Version Equalizer
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Vivado HLS
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Install Location: ../../Vivado_HLS/2012.2
+INFO ::Sun Aug 04 22:22:39 TZ 2019:: Module: Vivado HLS
+INFO ::Sun Aug 04 22:22:42 TZ 2019:: fileset.txt written.
+INFO ::Sun Aug 04 22:22:42 TZ 2019:: Migrating registry and creating file association
+WARN ::Sun Aug 04 22:22:42 TZ 2019:: Unable to copy "D:\xilinxisew\common\idata\.pref.bin" to "C:\Xilinx\14.2\ISE_DS\common\.xinstall\idata\.pref.bin" source does not exist.
+INFO ::Sun Aug 04 22:22:43 TZ 2019:: Post-GUI updates completed.
+INFO ::Sun Aug 04 22:23:23 TZ 2019:: fileset.txt written.
+INFO ::Sun Aug 04 22:23:23 TZ 2019:: Migrating registry and creating file association
+INFO ::Sun Aug 04 22:23:24 TZ 2019:: Post-GUI updates completed.
+INFO ::Sun Aug 04 22:23:24 TZ 2019:: Migrating registry and creating file association
+WARN ::Sun Aug 04 22:23:24 TZ 2019:: Unable to copy "D:\xilinxisew\CodeSourcery\idata\.pref.bin" to "C:\Xilinx\14.2\ISE_DS\common\CodeSourcery\.xinstall\idata\.pref.bin" source does not exist.
+INFO ::Sun Aug 04 22:23:25 TZ 2019:: Post-GUI updates completed.
+INFO ::Sun Aug 04 22:24:48 TZ 2019:: fileset.txt written.
+INFO ::Sun Aug 04 22:24:48 TZ 2019:: Migrating registry and creating file association
+INFO ::Sun Aug 04 22:24:51 TZ 2019:: Post-GUI updates completed.
+INFO ::Sun Aug 04 22:24:54 TZ 2019:: fileset.txt written.
+INFO ::Sun Aug 04 22:24:54 TZ 2019:: Migrating registry and creating file association
+INFO ::Sun Aug 04 22:24:55 TZ 2019:: Post-GUI updates completed.
+WDREG utility v10.21. Build Aug 31 2010 14:42:01
+Driver Installer - Version 1.21
+Already in the installer executable location.
+DriverInstaller->OS Version = Windows NT and later.
+ Major Version = 6, Minor Version = 2, SP = 0.
+User is in the admin group.
+WinDriver is not running.
+Installing WinDriver6...
+ wdreg exepath=C:\Xilinx\14.2\ISE_DS\common\bin\nt\wdreg.exe.
+ install command=C:\Xilinx\14.2\ISE_DS\common\bin\nt\wdreg.exe -silent -inf C:\Xilinx\14.2\ISE_DS\common\bin\nt\windrvr6.inf install.
+ Installer exit code = 1.
+DriverInstaller->Dest Path = C:\WINDOWS\system32\drivers\xpc4drvr.sys
+DriverInstaller->Source Path = C:\Xilinx\14.2\ISE_DS\common\bin\nt\xpc4drvr.sys
+ File C:\WINDOWS\system32\drivers\xpc4drvr.sys not found.
+ File version of C:\Xilinx\14.2\ISE_DS\common\bin\nt\xpc4drvr.sys is 1040.
+DriverInstaller->XilinxPC4Driver StartService failed (1275).
+DriverInstaller->XilinxPC4Driver First State = 1.
+DriverInstaller->XilinxPC4Driver not started 1.
+Error occurred during driver installation.
+InstallPath="C:\Xilinx\14.2\ISE_DS\ISE"
+Running digilent installer...
+
+<<<<< Digilent ChipScopePlugin Setup >>>>>
+Installer version: 1.0.198 release: 2012/04/06
+Digilent Software Path: C:\Program Files (x86)\Digilent
+
+<<<<< Microsoft Windows Installer (MSI) >>>>>
+Already installed version 5.0.
+
+<<<<< Microsoft Visual C++ Runtime >>>>>
+done
+
+<<<<< Microsoft Visual C++ Runtime x64 >>>>>
+done
+
+<<<<< Digilent Adept Runtime >>>>>
+Version: 2.9.7
+Cleaning up before installing...
+Setting component registry entries...
+Copying files...
+Installing USB driver...
+Driver installation failed. Error code: 80020100
+
+Installation failed
+Driver status 1 = "10"
+Driver status 2 = "200"
+INFO ::Sun Aug 04 22:24:55 TZ 2019:: Execute: "C:\Xilinx\14.2\ISE_DS"\settings32.bat /B if not exist "%APPDATA%\Xilinx\Vivado" mkdir "%APPDATA%\Xilinx\Vivado"
+INFO ::Sun Aug 04 22:34:14 TZ 2019:: fileset.txt written.
+INFO ::Sun Aug 04 22:34:14 TZ 2019:: Migrating registry and creating file association
+INFO ::Sun Aug 04 22:34:18 TZ 2019:: Post-GUI updates completed.
+INFO ::Sun Aug 04 22:34:18 TZ 2019:: Execute: cmd /C (echo destination_dir=C:\Xilinx\14.2\ISE_DS/../.. && echo program_group=Xilinx Design Tools && echo eula_accepted=Y && echo application=Acquire or Manage a License Key::0 &&echo package=Xilinx Documentation Navigator - Standalone Installation::1 )>C:\Xilinx\14.2\ISE_DS/.xinstall/dn.txt
+INFO ::Sun Aug 04 22:34:19 TZ 2019:: Execute: D:\xilinxisew\bin\nt\batchxsetup.exe -batch C:\Xilinx\14.2\ISE_DS\.xinstall\dn.txt
+INFO ::Sun Aug 04 22:34:37 TZ 2019:: Execute: cmd /C del /F C:\Xilinx\14.2\ISE_DS\.xinstall\dn.txt
+INFO ::Sun Aug 04 22:34:37 TZ 2019:: Execute: C:\Xilinx\14.2\ISE_DS\PlanAhead\data\webtalk\webtalk_install.bat off
+INFO ::Sun Aug 04 22:34:39 TZ 2019:: Migrating registry and creating file association
+WARN ::Sun Aug 04 22:34:39 TZ 2019:: Unable to copy "D:\xilinxisew\sysgen\idata\.pref.bin" to "C:\Xilinx\14.2\ISE_DS\SysGen\.xinstall\idata\.pref.bin" source does not exist.
+INFO ::Sun Aug 04 22:34:40 TZ 2019:: Post-GUI updates completed.
+INFO ::Sun Aug 04 22:35:18 TZ 2019:: fileset.txt written.
+INFO ::Sun Aug 04 22:35:18 TZ 2019:: Migrating registry and creating file association
+INFO ::Sun Aug 04 22:35:22 TZ 2019:: Post-GUI updates completed.
+WARN ::Sun Aug 04 22:35:24 TZ 2019:: Unable to copy "D:\xilinxisew\lib\nt" to "C:\Xilinx\14.2\ISE_DS\.xinstall\lib\nt" source does not exist.
+INFO ::Sun Aug 04 22:35:28 TZ 2019:: Execute: C:\Xilinx\14.2\ISE_DS\common\bin\nt\xvcredist.exe
+INFO ::Sun Aug 04 22:36:38 TZ 2019:: Execute: "D:\xilinxisew\CodeSourcery\nt"\xilinx-2011.09-50-arm-xilinx-linux-gnueabi.exe -i silent -DUSER_INSTALL_DIR=C:\Xilinx\14.2\ISE_DS\EDK/gnu/arm/nt  -DCHOSEN_INSTALL_SET=Typical -DUSER_REQUESTED_RESTART=NO -DREGISTER_UNINSTALLER_WINDOWS=false -DUI_PATH_ALL=0 -DUI_PATH_USER=0 -DUI_PATH_NONE=1 -DVIEW_IDE=0 -DVIEW_GS=0 -DDONE_FILE=C:\Xilinx\14.2\ISE_DS\EDK/.xinstall/codesourcery_GNU.done
+INFO ::Sun Aug 04 22:38:49 TZ 2019:: Execute: "D:\xilinxisew\CodeSourcery\nt"\xilinx-2011.09-49-arm-xilinx-eabi.exe -i silent -DUSER_INSTALL_DIR=C:\Xilinx\14.2\ISE_DS\EDK/gnu/arm/nt  -DCHOSEN_INSTALL_SET=Typical -DUSER_REQUESTED_RESTART=NO -DREGISTER_UNINSTALLER_WINDOWS=false -DUI_PATH_ALL=0 -DUI_PATH_USER=0 -DUI_PATH_NONE=1 -DVIEW_IDE=0 -DVIEW_GS=0 -DDONE_FILE=C:\Xilinx\14.2\ISE_DS\EDK/.xinstall/codesourcery.done
+INFO ::Sun Aug 04 22:40:07 TZ 2019:: Execute: C:\Xilinx\14.2\ISE_DS\PlanAhead\..\PlanAhead\bin\setupEnv.bat
+INFO ::Sun Aug 04 22:40:07 TZ 2019:: Execute: C:\Xilinx\14.2\ISE_DS\ISE\sysgen\util\postinstall_winpcap.bat C:\Xilinx\14.2\ISE_DS\ISE/sysgen nt WinPCap_4_1_1.exe
+INFO ::Sun Aug 04 22:40:21 TZ 2019:: Execute: C:\Xilinx\14.2\ISE_DS\ISE\sysgen\util\postinstall_info_xml.bat C:\Xilinx\14.2\ISE_DS\ISE/sysgen nt
+INFO ::Sun Aug 04 22:40:21 TZ 2019:: Execute: C:\Xilinx\14.2\ISE_DS\ISE\sysgen\util\postinstall_2005_redistributable.bat C:\Xilinx\14.2\ISE_DS/ISE/sysgen nt
+INFO ::Sun Aug 04 22:40:21 TZ 2019:: Execute: C:\Xilinx\14.2\ISE_DS\settings32.bat C:\Xilinx\14.2\ISE_DS\common\bin\nt\install_drivers_wrapper.bat C:\Xilinx\14.2\ISE_DS\common\bin\nt C:\Xilinx\14.2\ISE_DS\.xinstall\install.log C:\Xilinx\14.2\ISE_DS\ISE
+INFO ::Sun Aug 04 22:40:56 TZ 2019:: Driver installation failed. Please check the Install Directory/.xinstall/install.log file for more information on the cause of the installation failure.
+INFO ::Sun Aug 04 22:41:05 TZ 2019:: Execute: C:\Xilinx\14.2\ISE_DS\PlanAhead\data\webtalk\webtalk_install.bat on
+INFO ::Sun Aug 04 22:41:05 TZ 2019:: Execute: C:\Xilinx\14.2\ISE_DS\ISE\sysgen\util\postinstall_sgconfig.bat C:\Xilinx\14.2\ISE_DS/ISE/sysgen nt 14.2
+INFO ::Sun Aug 04 22:42:13 TZ 2019:: Execute: C:\Xilinx\14.2\ISE_DS\ISE\sysgen\util\match_version.bat C:\Xilinx\14.2\ISE_DS\ISE\sysgen nt 14.2
+INFO ::Sun Aug 04 22:42:13 TZ 2019:: Execute: C:\Xilinx\14.2\ISE_DS\settings32.bat C:\Xilinx\14.2\ISE_DS\common\bin\nt\xlcm.exe
+INFO ::Sun Aug 04 22:42:24 TZ 2019:: Xilinx Installer/Updater exited with return status "0".
+INFO ::Sun Aug 04 22:42:24 TZ 2019:: ################################################################
+
+
+
+
+
+*************************************
+* Software Updates:
+*************************************
+No Updates to Display 
+
+*************************************
+* Tactical Patches:
+*************************************
+No Tactical Patches to Display 
+
+*************************************
+* ISE Preferences:
+*************************************
+ISE version 14.2 preferences 
+================================== 
+ModelSimBinDirUserVal 
+ModelSimExePathUserVal 
+SynplifyBinDirUserVal 
+SynplifyExePathUserVal 
+SynplifyProBinDirUserVal 
+SynplifyProExePathUserVal 
+PrecisionBinDirUserVal 
+PrecisionExePathUserVal 
+PlanAheadBinDirUserVal C:\Xilinx\14.2\ISE_DS\PlanAhead\bin
+PlanAheadExePathUserVal C:\Xilinx\14.2\ISE_DS\PlanAhead\bin\planAhead.bat
+FitterReportFormat 0
+DebugTclScriptDebugLevel 0
+Project Editor 0
+ConstEditor 2
+Custom CmdLine 
+DefaultTopLevelModuleType HDL
+DefaultSynthesisTool XST (VHDL/Verilog)
+DefaultSimulator ISim (VHDL/Verilog)
+DefaultPreferredLanguage Verilog
+DefaultPropertySpecificationProjectFile Store all values
+DefaultManualCompileOrder false
+DefaultEnableMessageFiltering false
+ 
+
+*************************************
+* License Information:
+*************************************
+Feature                    S/W or IP Core         Version Expiring    Floating or Node Locked Count     Info                                                                                  Server Name File Name                                                      Host Id Feature Index License Validity Licenses In Use Host Id Matches 
+========================== ====================== ======= =========== ======================= ========= ===================================================================================== =========== ============================================================== ======= ============= ================ =============== =============== 
+System_Edition             S/W                    2025.01 Permanent   Nodelocked              Uncounted something@my.door,System_Edition,software,permanent,_0_0_0                                        C:/.Xilinx\xilinx_ise.lic                                      ANY     00001         Okay                             Yes             
+Web_Package                S/W                    2025.01 Permanent   Nodelocked              Uncounted something@my.door,Web_Package,software,permanent,_0_0_0                                           C:/.Xilinx\xilinx_ise.lic                                      ANY     00002         Okay                             Yes             
+apu_fpu_v2                 IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00003         Okay                             Yes             
+apu_fpu_virtex5_v1         IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00004         Okay                             Yes             
+plbv46_pci_v1              IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00005         Okay                             Yes             
+plbv46_pcie_v3             IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00006         Okay                             Yes             
+soft_temac_wrap_v1         IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00007         Okay                             Yes             
+soft_temac_wrap_v2         IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00008         Okay                             Yes             
+xps_can_v1                 IP:Design_Linking      1.0     Permanent   Nodelocked              Uncounted License_Type:Design_Linking                                                                       C:/.Xilinx\xilinx_ise.lic                                      ANY     00009         Okay                             Yes             
+xps_can_v2                 IP:Design_Linking      1.0     Permanent   Nodelocked              Uncounted License_Type:Design_Linking                                                                       C:/.Xilinx\xilinx_ise.lic                                      ANY     00010         Okay                             Yes             
+xps_ethernetlite_v1        IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00011         Okay                             Yes             
+xps_flexray_v1             IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00012         Okay                             Yes             
+xps_iic_v1                 IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00013         Okay                             Yes             
+xps_iic_v2                 IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00014         Okay                             Yes             
+xps_ll_temac_v1            IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00015         Okay                             Yes             
+xps_ll_temac_v2            IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00016         Okay                             Yes             
+xps_most_nic_v1            IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00017         Okay                             Yes             
+xps_uart16550_v1           IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00018         Okay                             Yes             
+xps_usb2_device_v1         IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00019         Okay                             Yes             
+xps_usb2_device_v2         IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00020         Okay                             Yes             
+xps_usb_host_v1            IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00021         Okay                             Yes             
+apu_fpu                    IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,apu_fpu,ip,permanent,_0_0_0                                             C:/.Xilinx\xilinx_ise.lic                                      ANY     00022         Okay                             Yes             
+apu_fpu_virtex5            IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,apu_fpu_virtex5,ip,permanent,_0_0_0                                     C:/.Xilinx\xilinx_ise.lic                                      ANY     00023         Okay                             Yes             
+axi_can                    IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,axi_can,ip,permanent,_0_0_0                                             C:/.Xilinx\xilinx_ise.lic                                      ANY     00024         Okay                             Yes             
+axi_ethernet_avb           IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,axi_ethernet_avb,ip,permanent,_0_0_0                                    C:/.Xilinx\xilinx_ise.lic                                      ANY     00025         Okay                             Yes             
+axi_ethernet_avb           IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,axi_ethernet_avb,ip,permanent,_0_0_0                        C:/.Xilinx\xilinx_ise.lic                                      ANY     00026         Okay                             Yes             
+axi_ethernet_soft_10_100   IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,axi_ethernet_soft_10_100,ip,permanent,_0_0_0                            C:/.Xilinx\xilinx_ise.lic                                      ANY     00027         Okay                             Yes             
+axi_ethernet_soft_10_100   IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,axi_ethernet_soft_10_100,ip,permanent,_0_0_0                C:/.Xilinx\xilinx_ise.lic                                      ANY     00028         Okay                             Yes             
+axi_ethernet_soft_tri_mode IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,axi_ethernet_soft_tri_mode,ip,permanent,_0_0_0                          C:/.Xilinx\xilinx_ise.lic                                      ANY     00029         Okay                             Yes             
+axi_ethernet_soft_tri_mode IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,axi_ethernet_soft_tri_mode,ip,permanent,_0_0_0              C:/.Xilinx\xilinx_ise.lic                                      ANY     00030         Okay                             Yes             
+axi_usb2_device            IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,axi_usb2_device,ip,permanent,_0_0_0                                     C:/.Xilinx\xilinx_ise.lic                                      ANY     00031         Okay                             Yes             
+axi_usb2_device            IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,axi_usb2_device,ip,permanent,_0_0_0                         C:/.Xilinx\xilinx_ise.lic                                      ANY     00032         Okay                             Yes             
+plbv46_pci                 IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,plbv46_pci,ip,permanent,_0_0_0                                          C:/.Xilinx\xilinx_ise.lic                                      ANY     00033         Okay                             Yes             
+plbv46_pci                 IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,plbv46_pci,ip,permanent,_0_0_0                              C:/.Xilinx\xilinx_ise.lic                                      ANY     00034         Okay                             Yes             
+plbv46_pcie                IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,plbv46_pcie,ip,permanent,_0_0_0                                         C:/.Xilinx\xilinx_ise.lic                                      ANY     00035         Okay                             Yes             
+soft_temac_wrap            IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,soft_temac_wrap,ip,permanent,_0_0_0                                     C:/.Xilinx\xilinx_ise.lic                                      ANY     00036         Okay                             Yes             
+soft_temac_wrap            IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,soft_temac_wrap,ip,permanent,_0_0_0                         C:/.Xilinx\xilinx_ise.lic                                      ANY     00037         Okay                             Yes             
+xps_can                    IP:Design_Linking      2010.12 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,xps_can,ip,permanent,_0_0_0                                     C:/.Xilinx\xilinx_ise.lic                                      ANY     00038         Okay                             Yes             
+xps_ethernetlite           IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,xps_ethernetlite,ip,permanent,_0_0_0                                    C:/.Xilinx\xilinx_ise.lic                                      ANY     00039         Okay                             Yes             
+xps_ethernetlite           IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,xps_ethernetlite,ip,permanent,_0_0_0                        C:/.Xilinx\xilinx_ise.lic                                      ANY     00040         Okay                             Yes             
+xps_flexray                IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,xps_flexray,ip,permanent,_0_0_0                                         C:/.Xilinx\xilinx_ise.lic                                      ANY     00041         Okay                             Yes             
+xps_iic                    IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,xps_iic,ip,permanent,_0_0_0                                             C:/.Xilinx\xilinx_ise.lic                                      ANY     00042         Okay                             Yes             
+xps_iic                    IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,xps_iic,ip,permanent,_0_0_0                                 C:/.Xilinx\xilinx_ise.lic                                      ANY     00043         Okay                             Yes             
+xps_ll_temac               IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,xps_ll_temac,ip,permanent,_0_0_0                                        C:/.Xilinx\xilinx_ise.lic                                      ANY     00044         Okay                             Yes             
+xps_ll_temac               IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,xps_ll_temac,ip,permanent,_0_0_0                            C:/.Xilinx\xilinx_ise.lic                                      ANY     00045         Okay                             Yes             
+xps_most_nic               IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,xps_most_nic,ip,permanent,_0_0_0                                        C:/.Xilinx\xilinx_ise.lic                                      ANY     00046         Okay                             Yes             
+xps_most_nic               IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,xps_most_nic,ip,permanent,_0_0_0                            C:/.Xilinx\xilinx_ise.lic                                      ANY     00047         Okay                             Yes             
+xps_uart16550              IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,xps_uart16550,ip,permanent,_0_0_0                                       C:/.Xilinx\xilinx_ise.lic                                      ANY     00048         Okay                             Yes             
+xps_uart16550              IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,xps_uart16550,ip,permanent,_0_0_0                           C:/.Xilinx\xilinx_ise.lic                                      ANY     00049         Okay                             Yes             
+xps_usb2_device            IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,xps_usb2_device,ip,permanent,_0_0_0                                     C:/.Xilinx\xilinx_ise.lic                                      ANY     00050         Okay                             Yes             
+xps_usb2_device            IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,xps_usb2_device,ip,permanent,_0_0_0                         C:/.Xilinx\xilinx_ise.lic                                      ANY     00051         Okay                             Yes             
+xps_usb_host               IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,xps_usb_host,ip,permanent,_0_0_0                                        C:/.Xilinx\xilinx_ise.lic                                      ANY     00052         Okay                             Yes             
+xps_usb_host               IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,xps_usb_host,ip,permanent,_0_0_0                            C:/.Xilinx\xilinx_ise.lic                                      ANY     00053         Okay                             Yes             
+10_100_mb_eth_mac          IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00054         Okay                             Yes             
+10_100_mb_eth_mac          IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,10_100_mb_eth_mac,ip,permanent,_0_0_0                       C:/.Xilinx\xilinx_ise.lic                                      ANY     00055         Okay                             Yes             
+apu_fpu_v2                 IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00056         Okay                             Yes             
+apu_fpu_virtex5_v1         IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00057         Okay                             Yes             
+aurora_64b66b_v1           IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00058         Okay                             Yes             
+aurora_64b66b_v2           IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00059         Okay                             Yes             
+aurora_8b10b_v4            IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00060         Okay                             Yes             
+aurora_v2                  IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00061         Okay                             Yes             
+aurora_v3                  IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00062         Okay                             Yes             
+dvb_s2_fec_encoder_v1      IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00063         Okay                             Yes             
+eth_avb_endpoint_v1        IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00064         Okay                             Yes             
+ethernet_statistics_v1     IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00065         Okay                             Yes             
+ethernet_statistics_v2     IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00066         Okay                             Yes             
+ethernet_statistics_v3     IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00067         Okay                             Yes             
+gig_eth_pcs_pma_v10        IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00068         Okay                             Yes             
+gig_eth_pcs_pma_v3_0       IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00069         Okay                             Yes             
+gig_eth_pcs_pma_v4_0       IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00070         Okay                             Yes             
+gig_eth_pcs_pma_v5_0       IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00071         Okay                             Yes             
+gig_eth_pcs_pma_v6         IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00072         Okay                             Yes             
+gig_eth_pcs_pma_v7         IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00073         Okay                             Yes             
+gig_eth_pcs_pma_v8         IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00074         Okay                             Yes             
+gig_eth_pcs_pma_v9         IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00075         Okay                             Yes             
+most_nic_v1                IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00076         Okay                             Yes             
+opb_ethernet_v1            IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00077         Okay                             Yes             
+opb_ethernet_v1_00_j       IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00078         Okay                             Yes             
+opb_ethernet_v1_00_k       IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00079         Okay                             Yes             
+opb_ethernet_v1_00_l       IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00080         Okay                             Yes             
+opb_ethernet_v1_00_m       IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00081         Okay                             Yes             
+opb_ethernet_v1_01_a       IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00082         Okay                             Yes             
+opb_ethernetlite_v1        IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00083         Okay                             Yes             
+opb_ethernetlite_v1_00_a   IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00084         Okay                             Yes             
+opb_iic_v1                 IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00085         Okay                             Yes             
+opb_iic_v1_01_a            IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00086         Okay                             Yes             
+opb_iic_v1_01_b            IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00087         Okay                             Yes             
+opb_pci_v1                 IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00088         Okay                             Yes             
+opb_pci_v1_00_a            IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00089         Okay                             Yes             
+opb_pci_v1_00_b            IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00090         Okay                             Yes             
+opb_pci_v1_00_c            IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00091         Okay                             Yes             
+opb_uart16550_v1           IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00092         Okay                             Yes             
+opb_uart16550_v1_00_c      IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00093         Okay                             Yes             
+opb_usb2_device_v1         IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00094         Okay                             Yes             
+pci32_sp_v3_0              IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00095         Okay                             Yes             
+pci32_sp_v3_1              IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00096         Okay                             Yes             
+pci32_v4                   IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00097         Okay                             Yes             
+pci32_vx_v3_0              IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00098         Okay                             Yes             
+pci32_vx_v3_1              IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00099         Okay                             Yes             
+pci64_sp_v3_0              IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00100         Okay                             Yes             
+pci64_sp_v3_1              IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00101         Okay                             Yes             
+pci64_v3_0                 IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00102         Okay                             Yes             
+pci64_v3_1                 IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00103         Okay                             Yes             
+pci64_v4                   IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00104         Okay                             Yes             
+pci64_vx_v3_0              IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00105         Okay                             Yes             
+pci64_vx_v3_1              IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00106         Okay                             Yes             
+pci_express_v3             IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00107         Okay                             Yes             
+pcie_blk_plus_v1           IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00108         Okay                             Yes             
+pcie_pipe_v1               IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00109         Okay                             Yes             
+pcix64_v5_0                IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00110         Okay                             Yes             
+pcix64_v5_1                IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00111         Okay                             Yes             
+pcix_v6                    IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00112         Okay                             Yes             
+pcix_v6                    IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00113         Okay                             Yes             
+pl4_lite_v3                IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00114         Okay                             Yes             
+pl4_lite_v4                IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00115         Okay                             Yes             
+pl4_v6                     IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00116         Okay                             Yes             
+pl4_v7_0                   IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00117         Okay                             Yes             
+pl4_v7_1                   IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00118         Okay                             Yes             
+pl4_v7_2                   IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00119         Okay                             Yes             
+pl4_v7_3                   IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00120         Okay                             Yes             
+pl4_v7_4                   IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00121         Okay                             Yes             
+pl4_v8                     IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00122         Okay                             Yes             
+pl4_v9                     IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00123         Okay                             Yes             
+plb_ethernet_v1            IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00124         Okay                             Yes             
+plb_ethernet_v1_00_a       IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00125         Okay                             Yes             
+plb_pci_v1                 IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00126         Okay                             Yes             
+plb_temac_v1               IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00127         Okay                             Yes             
+plb_uart16550_v1_00_b      IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00128         Okay                             Yes             
+plb_uart16550_v1_00_c      IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00129         Okay                             Yes             
+plbv46_pci_v1              IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00130         Okay                             Yes             
+rach_3gpp_v1               IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00131         Okay                             Yes             
+rio_log_io_v3              IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00132         Okay                             Yes             
+rio_log_io_v4              IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00133         Okay                             Yes             
+rio_log_io_v5              IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00134         Okay                             Yes             
+rs_decoder_v4_0            IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00135         Okay                             Yes             
+rs_decoder_v4_1            IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00136         Okay                             Yes             
+rs_decoder_v5_0            IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00137         Okay                             Yes             
+rs_decoder_v5_1            IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00138         Okay                             Yes             
+rs_decoder_v6              IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00139         Okay                             Yes             
+rs_encoder_v4_0            IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00140         Okay                             Yes             
+rs_encoder_v4_1            IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00141         Okay                             Yes             
+rs_encoder_v5_0            IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00142         Okay                             Yes             
+rs_encoder_v6              IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00143         Okay                             Yes             
+s6_pcie_v1                 IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00144         Okay                             Yes             
+searcher_3gpp_v1           IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00145         Okay                             Yes             
+sid_v3_0                   IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00146         Okay                             Yes             
+sid_v3_1                   IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00147         Okay                             Yes             
+sid_v4_0                   IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00148         Okay                             Yes             
+sid_v5                     IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00149         Okay                             Yes             
+soft_temac_wrap_v2         IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00150         Okay                             Yes             
+soft_temac_wrap_v2         IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00151         Okay                             Yes             
+soft_temac_wrap_v2         IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00152         Okay                             Yes             
+spi3_link_v4               IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00153         Okay                             Yes             
+spi3_link_v5               IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00154         Okay                             Yes             
+srio_phy_v3                IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00155         Okay                             Yes             
+srio_phy_v4                IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00156         Okay                             Yes             
+srio_phy_v5                IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00157         Okay                             Yes             
+tcc_dec_802_16e_v3         IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00158         Okay                             Yes             
+tcc_decoder_3gpp_v1        IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00159         Okay                             Yes             
+tcc_decoder_3gpp_v2        IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00160         Okay                             Yes             
+tcc_decoder_3gpp_v3        IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00161         Okay                             Yes             
+tcc_decoder_v1_0           IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00162         Okay                             Yes             
+tcc_decoder_v2             IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00163         Okay                             Yes             
+tcc_enc_802_16e_v1         IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00164         Okay                             Yes             
+tcc_enc_802_16e_v2         IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00165         Okay                             Yes             
+tcc_enc_802_16e_v3         IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00166         Okay                             Yes             
+tcc_encoder_3gpp2_v2       IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00167         Okay                             Yes             
+tcc_encoder_3gpp_v1        IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00168         Okay                             Yes             
+tcc_encoder_3gpp_v2        IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00169         Okay                             Yes             
+tcc_encoder_3gpp_v3        IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00170         Okay                             Yes             
+tcc_encoder_3gpplte_v1     IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00171         Okay                             Yes             
+tcc_encoder_3gpplte_v2     IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00172         Okay                             Yes             
+tcc_encoder_3gpplte_v3     IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00173         Okay                             Yes             
+tcc_encoder_v1_0           IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00174         Okay                             Yes             
+tcc_encoder_v2             IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00175         Okay                             Yes             
+ten_gig_eth_mac_v3_0       IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00176         Okay                             Yes             
+ten_gig_eth_mac_v4_0       IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00177         Okay                             Yes             
+ten_gig_eth_mac_v5_0       IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00178         Okay                             Yes             
+ten_gig_eth_mac_v6         IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00179         Okay                             Yes             
+ten_gig_eth_mac_v7         IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00180         Okay                             Yes             
+ten_gig_eth_mac_v8         IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00181         Okay                             Yes             
+ten_gig_eth_mac_v9         IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00182         Okay                             Yes             
+tri_mode_eth_mac_v1_1      IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00183         Okay                             Yes             
+tri_mode_eth_mac_v2        IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00184         Okay                             Yes             
+tri_mode_eth_mac_v3        IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00185         Okay                             Yes             
+tri_mode_eth_mac_v4        IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00186         Okay                             Yes             
+usb2_device_v1             IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00187         Okay                             Yes             
+v4_emac_v4                 IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00188         Okay                             Yes             
+v5_emac_v1                 IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00189         Okay                             Yes             
+v6_emac_v1                 IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00190         Okay                             Yes             
+v6_pcie_v1                 IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00191         Okay                             Yes             
+v_ccm_v1                   IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00192         Okay                             Yes             
+v_cfa_v1                   IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00193         Okay                             Yes             
+v_gamma_v1                 IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00194         Okay                             Yes             
+v_manr_v1_0                IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00195         Okay                             Yes             
+v_osd_v1_0                 IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00196         Okay                             Yes             
+v_rgb2ycrcb_v2             IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00197         Okay                             Yes             
+v_scaler_v1_0              IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00198         Okay                             Yes             
+v_spc_v1                   IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00199         Okay                             Yes             
+v_stats                    IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00200         Okay                             Yes             
+v_stats                    IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,v_stats,ip,permanent,_0_0_0                                 C:/.Xilinx\xilinx_ise.lic                                      ANY     00201         Okay                             Yes             
+v_vdma_v1_0                IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00202         Okay                             Yes             
+v_ycrcb2rgb_v2             IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00203         Okay                             Yes             
+viterbi_v3_0               IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00204         Okay                             Yes             
+viterbi_v4_0               IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00205         Okay                             Yes             
+viterbi_v5                 IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00206         Okay                             Yes             
+viterbi_v6                 IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00207         Okay                             Yes             
+viterbi_v7                 IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00208         Okay                             Yes             
+xaui_v3_0                  IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00209         Okay                             Yes             
+xaui_v4_0                  IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00210         Okay                             Yes             
+xaui_v5_0                  IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00211         Okay                             Yes             
+xaui_v6                    IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00212         Okay                             Yes             
+xaui_v7                    IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00213         Okay                             Yes             
+xaui_v8                    IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00214         Okay                             Yes             
+xps_ethernetlite_v1        IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00215         Okay                             Yes             
+xps_iic_v1                 IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00216         Okay                             Yes             
+xps_iic_v2                 IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00217         Okay                             Yes             
+xps_ll_temac_v1            IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00218         Okay                             Yes             
+xps_ll_temac_v2            IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00219         Okay                             Yes             
+xps_most_nic_v1            IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00220         Okay                             Yes             
+xps_uart16550_v1           IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00221         Okay                             Yes             
+xps_usb2_device_v1         IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00222         Okay                             Yes             
+xps_usb2_device_v2         IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00223         Okay                             Yes             
+xps_usb_host_v1            IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00224         Okay                             Yes             
+10_100_mb_eth_mac          IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00225         Okay                             Yes             
+10_100_mb_eth_mac          IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,10_100_mb_eth_mac,ip,permanent,_0_0_0                       C:/.Xilinx\xilinx_ise.lic                                      ANY     00226         Okay                             Yes             
+apu_fpu_sp                 IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,apu_fpu_sp,ip,permanent,_0_0_0                              C:/.Xilinx\xilinx_ise.lic                                      ANY     00227         Okay                             Yes             
+aurora                     IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,aurora,ip,permanent,_0_0_0                                  C:/.Xilinx\xilinx_ise.lic                                      ANY     00228         Okay                             Yes             
+aurora_64b66b              IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,aurora_64b66b,ip,permanent,_0_0_0                           C:/.Xilinx\xilinx_ise.lic                                      ANY     00229         Okay                             Yes             
+aurora_8b10b               IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,aurora_8b10b,ip,permanent,_0_0_0                            C:/.Xilinx\xilinx_ise.lic                                      ANY     00230         Okay                             Yes             
+axi_ethernet_avb           IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,axi_ethernet_avb,ip,permanent,_0_0_0                                    C:/.Xilinx\xilinx_ise.lic                                      ANY     00231         Okay                             Yes             
+axi_ethernet_avb           IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,axi_ethernet_avb,ip,permanent,_0_0_0                        C:/.Xilinx\xilinx_ise.lic                                      ANY     00232         Okay                             Yes             
+axi_ethernet_soft_10_100   IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,axi_ethernet_soft_10_100,ip,permanent,_0_0_0                            C:/.Xilinx\xilinx_ise.lic                                      ANY     00233         Okay                             Yes             
+axi_ethernet_soft_10_100   IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,axi_ethernet_soft_10_100,ip,permanent,_0_0_0                C:/.Xilinx\xilinx_ise.lic                                      ANY     00234         Okay                             Yes             
+axi_ethernet_soft_tri_mode IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,axi_ethernet_soft_tri_mode,ip,permanent,_0_0_0                          C:/.Xilinx\xilinx_ise.lic                                      ANY     00235         Okay                             Yes             
+axi_ethernet_soft_tri_mode IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,axi_ethernet_soft_tri_mode,ip,permanent,_0_0_0              C:/.Xilinx\xilinx_ise.lic                                      ANY     00236         Okay                             Yes             
+axi_usb2_device            IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,axi_usb2_device,ip,permanent,_0_0_0                                     C:/.Xilinx\xilinx_ise.lic                                      ANY     00237         Okay                             Yes             
+axi_usb2_device            IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,axi_usb2_device,ip,permanent,_0_0_0                         C:/.Xilinx\xilinx_ise.lic                                      ANY     00238         Okay                             Yes             
+displayport                IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,displayport,ip,permanent,_0_0_0                             C:/.Xilinx\xilinx_ise.lic                                      ANY     00239         Okay                             Yes             
+dvb_s2_fec_encoder         IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,dvb_s2_fec_encoder,ip,permanent,_0_0_0                      C:/.Xilinx\xilinx_ise.lic                                      ANY     00240         Okay                             Yes             
+eth_avb_endpoint           IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,eth_avb_endpoint,ip,permanent,_0_0_0                        C:/.Xilinx\xilinx_ise.lic                                      ANY     00241         Okay                             Yes             
+ethernet_statistics        IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,ethernet_statistics,ip,permanent,_0_0_0                     C:/.Xilinx\xilinx_ise.lic                                      ANY     00242         Okay                             Yes             
+gig_eth_pcs_pma            IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,gig_eth_pcs_pma,ip,permanent,_0_0_0                         C:/.Xilinx\xilinx_ise.lic                                      ANY     00243         Okay                             Yes             
+most_nic                   IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,most_nic,ip,permanent,_0_0_0                                C:/.Xilinx\xilinx_ise.lic                                      ANY     00244         Okay                             Yes             
+opb_ethernet               IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,opb_ethernet,ip,permanent,_0_0_0                            C:/.Xilinx\xilinx_ise.lic                                      ANY     00245         Okay                             Yes             
+opb_ethernetlite           IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,opb_ethernetlite,ip,permanent,_0_0_0                        C:/.Xilinx\xilinx_ise.lic                                      ANY     00246         Okay                             Yes             
+opb_iic                    IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,opb_iic,ip,permanent,_0_0_0                                 C:/.Xilinx\xilinx_ise.lic                                      ANY     00247         Okay                             Yes             
+opb_pci                    IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,opb_pci,ip,permanent,_0_0_0                                 C:/.Xilinx\xilinx_ise.lic                                      ANY     00248         Okay                             Yes             
+opb_uart16550              IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,opb_uart16550,ip,permanent,_0_0_0                           C:/.Xilinx\xilinx_ise.lic                                      ANY     00249         Okay                             Yes             
+opb_usb2_device            IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,opb_usb2_device,ip,permanent,_0_0_0                         C:/.Xilinx\xilinx_ise.lic                                      ANY     00250         Okay                             Yes             
+pci32                      IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,pci32,ip,permanent,_0_0_0                                   C:/.Xilinx\xilinx_ise.lic                                      ANY     00251         Okay                             Yes             
+pci32_sp                   IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,pci32_sp,ip,permanent,_0_0_0                                C:/.Xilinx\xilinx_ise.lic                                      ANY     00252         Okay                             Yes             
+pci32_spng                 IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,pci32_spng,ip,permanent,_0_0_0                              C:/.Xilinx\xilinx_ise.lic                                      ANY     00253         Okay                             Yes             
+pci32_vx                   IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,pci32_vx,ip,permanent,_0_0_0                                C:/.Xilinx\xilinx_ise.lic                                      ANY     00254         Okay                             Yes             
+pci64                      IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,pci64,ip,permanent,_0_0_0                                   C:/.Xilinx\xilinx_ise.lic                                      ANY     00255         Okay                             Yes             
+pci64_sp                   IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,pci64_sp,ip,permanent,_0_0_0                                C:/.Xilinx\xilinx_ise.lic                                      ANY     00256         Okay                             Yes             
+pci64_vx                   IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,pci64_vx,ip,permanent,_0_0_0                                C:/.Xilinx\xilinx_ise.lic                                      ANY     00257         Okay                             Yes             
+pci_express                IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,pci_express,ip,permanent,_0_0_0                             C:/.Xilinx\xilinx_ise.lic                                      ANY     00258         Okay                             Yes             
+pcie_blk_plus              IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,pcie_blk_plus,ip,permanent,_0_0_0                           C:/.Xilinx\xilinx_ise.lic                                      ANY     00259         Okay                             Yes             
+pcie_pipe                  IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,pcie_pipe,ip,permanent,_0_0_0                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00260         Okay                             Yes             
+pcix                       IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,pcix,ip,permanent,_0_0_0                                    C:/.Xilinx\xilinx_ise.lic                                      ANY     00261         Okay                             Yes             
+pcix64                     IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,pcix64,ip,permanent,_0_0_0                                  C:/.Xilinx\xilinx_ise.lic                                      ANY     00262         Okay                             Yes             
+pl4                        IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,pl4,ip,permanent,_0_0_0                                     C:/.Xilinx\xilinx_ise.lic                                      ANY     00263         Okay                             Yes             
+pl4_lite                   IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,pl4_lite,ip,permanent,_0_0_0                                C:/.Xilinx\xilinx_ise.lic                                      ANY     00264         Okay                             Yes             
+plb_ethernet               IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,plb_ethernet,ip,permanent,_0_0_0                            C:/.Xilinx\xilinx_ise.lic                                      ANY     00265         Okay                             Yes             
+plb_pci                    IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,plb_pci,ip,permanent,_0_0_0                                 C:/.Xilinx\xilinx_ise.lic                                      ANY     00266         Okay                             Yes             
+plb_temac                  IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,plb_temac,ip,permanent,_0_0_0                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00267         Okay                             Yes             
+plb_uart16550              IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,plb_uart16550,ip,permanent,_0_0_0                           C:/.Xilinx\xilinx_ise.lic                                      ANY     00268         Okay                             Yes             
+plbv46_pci                 IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,plbv46_pci,ip,permanent,_0_0_0                                          C:/.Xilinx\xilinx_ise.lic                                      ANY     00269         Okay                             Yes             
+plbv46_pci                 IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,plbv46_pci,ip,permanent,_0_0_0                              C:/.Xilinx\xilinx_ise.lic                                      ANY     00270         Okay                             Yes             
+rach_3gpp                  IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,rach_3gpp,ip,permanent,_0_0_0                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00271         Okay                             Yes             
+rio_log_io                 IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,rio_log_io,ip,permanent,_0_0_0                              C:/.Xilinx\xilinx_ise.lic                                      ANY     00272         Okay                             Yes             
+rs_decoder                 IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,rs_decoder,ip,permanent,_0_0_0                              C:/.Xilinx\xilinx_ise.lic                                      ANY     00273         Okay                             Yes             
+rs_encoder                 IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,rs_encoder,ip,permanent,_0_0_0                              C:/.Xilinx\xilinx_ise.lic                                      ANY     00274         Okay                             Yes             
+rxaui                      IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,rxaui,ip,permanent,_0_0_0                                   C:/.Xilinx\xilinx_ise.lic                                      ANY     00275         Okay                             Yes             
+s6_pcie                    IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,s6_pcie,ip,permanent,_0_0_0                                 C:/.Xilinx\xilinx_ise.lic                                      ANY     00276         Okay                             Yes             
+searcher_3gpp              IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,searcher_3gpp,ip,permanent,_0_0_0                           C:/.Xilinx\xilinx_ise.lic                                      ANY     00277         Okay                             Yes             
+sid                        IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,sid,ip,permanent,_0_0_0                                     C:/.Xilinx\xilinx_ise.lic                                      ANY     00278         Okay                             Yes             
+soft_temac_wrap            IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,soft_temac_wrap,ip,permanent,_0_0_0                                     C:/.Xilinx\xilinx_ise.lic                                      ANY     00279         Okay                             Yes             
+soft_temac_wrap            IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,soft_temac_wrap,ip,permanent,_0_0_0                         C:/.Xilinx\xilinx_ise.lic                                      ANY     00280         Okay                             Yes             
+spi3_link                  IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,spi3_link,ip,permanent,_0_0_0                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00281         Okay                             Yes             
+srio_phy                   IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,srio_phy,ip,permanent,_0_0_0                                C:/.Xilinx\xilinx_ise.lic                                      ANY     00282         Okay                             Yes             
+tcc_dec_802_16e            IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,tcc_dec_802_16e,ip,permanent,_0_0_0                         C:/.Xilinx\xilinx_ise.lic                                      ANY     00283         Okay                             Yes             
+tcc_decoder                IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,tcc_decoder,ip,permanent,_0_0_0                             C:/.Xilinx\xilinx_ise.lic                                      ANY     00284         Okay                             Yes             
+tcc_decoder_3gpp           IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,tcc_decoder_3gpp,ip,permanent,_0_0_0                        C:/.Xilinx\xilinx_ise.lic                                      ANY     00285         Okay                             Yes             
+tcc_enc_802_16e            IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,tcc_enc_802_16e,ip,permanent,_0_0_0                         C:/.Xilinx\xilinx_ise.lic                                      ANY     00286         Okay                             Yes             
+tcc_encoder                IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,tcc_encoder,ip,permanent,_0_0_0                             C:/.Xilinx\xilinx_ise.lic                                      ANY     00287         Okay                             Yes             
+tcc_encoder_3gpp           IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,tcc_encoder_3gpp,ip,permanent,_0_0_0                        C:/.Xilinx\xilinx_ise.lic                                      ANY     00288         Okay                             Yes             
+tcc_encoder_3gpp2          IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,tcc_encoder_3gpp2,ip,permanent,_0_0_0                       C:/.Xilinx\xilinx_ise.lic                                      ANY     00289         Okay                             Yes             
+tcc_encoder_3gpplte        IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,tcc_encoder_3gpplte,ip,permanent,_0_0_0                     C:/.Xilinx\xilinx_ise.lic                                      ANY     00290         Okay                             Yes             
+ten_gig_eth_mac            IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,ten_gig_eth_mac,ip,permanent,_0_0_0                         C:/.Xilinx\xilinx_ise.lic                                      ANY     00291         Okay                             Yes             
+ten_gig_eth_pcs_pma        IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,ten_gig_eth_pcs_pma,ip,permanent,_0_0_0                     C:/.Xilinx\xilinx_ise.lic                                      ANY     00292         Okay                             Yes             
+tri_mode_eth_mac           IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,tri_mode_eth_mac,ip,permanent,_0_0_0                        C:/.Xilinx\xilinx_ise.lic                                      ANY     00293         Okay                             Yes             
+tri_mode_eth_mac           IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,tri_mode_eth_mac,ip,permanent,_0_0_0                        C:/.Xilinx\xilinx_ise.lic                                      ANY     00294         Okay                             Yes             
+usb2_device                IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,usb2_device,ip,permanent,_0_0_0                             C:/.Xilinx\xilinx_ise.lic                                      ANY     00295         Okay                             Yes             
+v4_emac                    IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,v4_emac,ip,permanent,_0_0_0                                 C:/.Xilinx\xilinx_ise.lic                                      ANY     00296         Okay                             Yes             
+v5_emac                    IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,v5_emac,ip,permanent,_0_0_0                                 C:/.Xilinx\xilinx_ise.lic                                      ANY     00297         Okay                             Yes             
+v6_emac                    IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,v6_emac,ip,permanent,_0_0_0                                 C:/.Xilinx\xilinx_ise.lic                                      ANY     00298         Okay                             Yes             
+v6_pcie                    IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,v6_pcie,ip,permanent,_0_0_0                                 C:/.Xilinx\xilinx_ise.lic                                      ANY     00299         Okay                             Yes             
+v_ccm                      IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,v_ccm,ip,permanent,_0_0_0                                   C:/.Xilinx\xilinx_ise.lic                                      ANY     00300         Okay                             Yes             
+v_cfa                      IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,v_cfa,ip,permanent,_0_0_0                                   C:/.Xilinx\xilinx_ise.lic                                      ANY     00301         Okay                             Yes             
+v_enhance                  IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,v_enhance,ip,permanent,_0_0_0                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00302         Okay                             Yes             
+v_gamma                    IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,v_gamma,ip,permanent,_0_0_0                                 C:/.Xilinx\xilinx_ise.lic                                      ANY     00303         Okay                             Yes             
+v_ic                       IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,v_ic,ip,permanent,_0_0_0                                    C:/.Xilinx\xilinx_ise.lic                                      ANY     00304         Okay                             Yes             
+v_manr                     IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,v_manr,ip,permanent,_0_0_0                                  C:/.Xilinx\xilinx_ise.lic                                      ANY     00305         Okay                             Yes             
+v_noise                    IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,v_noise,ip,permanent,_0_0_0                                 C:/.Xilinx\xilinx_ise.lic                                      ANY     00306         Okay                             Yes             
+v_osd                      IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,v_osd,ip,permanent,_0_0_0                                   C:/.Xilinx\xilinx_ise.lic                                      ANY     00307         Okay                             Yes             
+v_rgb2ycrcb                IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,v_rgb2ycrcb,ip,permanent,_0_0_0                             C:/.Xilinx\xilinx_ise.lic                                      ANY     00308         Okay                             Yes             
+v_scaler                   IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,v_scaler,ip,permanent,_0_0_0                                C:/.Xilinx\xilinx_ise.lic                                      ANY     00309         Okay                             Yes             
+v_spc                      IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,v_spc,ip,permanent,_0_0_0                                   C:/.Xilinx\xilinx_ise.lic                                      ANY     00310         Okay                             Yes             
+v_stats                    IP:Bought              1.0     Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:/.Xilinx\xilinx_ise.lic                                      ANY     00311         Okay                             Yes             
+v_stats                    IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,v_stats,ip,permanent,_0_0_0                                 C:/.Xilinx\xilinx_ise.lic                                      ANY     00312         Okay                             Yes             
+v_timebase                 IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,v_timebase,ip,permanent,_0_0_0                              C:/.Xilinx\xilinx_ise.lic                                      ANY     00313         Okay                             Yes             
+v_vdma                     IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,v_vdma,ip,permanent,_0_0_0                                  C:/.Xilinx\xilinx_ise.lic                                      ANY     00314         Okay                             Yes             
+v_ycrcb2rgb                IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,v_ycrcb2rgb,ip,permanent,_0_0_0                             C:/.Xilinx\xilinx_ise.lic                                      ANY     00315         Okay                             Yes             
+viterbi                    IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,viterbi,ip,permanent,_0_0_0                                 C:/.Xilinx\xilinx_ise.lic                                      ANY     00316         Okay                             Yes             
+xaui                       IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,xaui,ip,permanent,_0_0_0                                    C:/.Xilinx\xilinx_ise.lic                                      ANY     00317         Okay                             Yes             
+xps_ethernetlite           IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,xps_ethernetlite,ip,permanent,_0_0_0                                    C:/.Xilinx\xilinx_ise.lic                                      ANY     00318         Okay                             Yes             
+xps_ethernetlite           IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,xps_ethernetlite,ip,permanent,_0_0_0                        C:/.Xilinx\xilinx_ise.lic                                      ANY     00319         Okay                             Yes             
+xps_iic                    IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,xps_iic,ip,permanent,_0_0_0                                             C:/.Xilinx\xilinx_ise.lic                                      ANY     00320         Okay                             Yes             
+xps_iic                    IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,xps_iic,ip,permanent,_0_0_0                                 C:/.Xilinx\xilinx_ise.lic                                      ANY     00321         Okay                             Yes             
+xps_ll_temac               IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,xps_ll_temac,ip,permanent,_0_0_0                                        C:/.Xilinx\xilinx_ise.lic                                      ANY     00322         Okay                             Yes             
+xps_ll_temac               IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,xps_ll_temac,ip,permanent,_0_0_0                            C:/.Xilinx\xilinx_ise.lic                                      ANY     00323         Okay                             Yes             
+xps_most_nic               IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,xps_most_nic,ip,permanent,_0_0_0                                        C:/.Xilinx\xilinx_ise.lic                                      ANY     00324         Okay                             Yes             
+xps_most_nic               IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,xps_most_nic,ip,permanent,_0_0_0                            C:/.Xilinx\xilinx_ise.lic                                      ANY     00325         Okay                             Yes             
+xps_uart16550              IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,xps_uart16550,ip,permanent,_0_0_0                                       C:/.Xilinx\xilinx_ise.lic                                      ANY     00326         Okay                             Yes             
+xps_uart16550              IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,xps_uart16550,ip,permanent,_0_0_0                           C:/.Xilinx\xilinx_ise.lic                                      ANY     00327         Okay                             Yes             
+xps_usb2_device            IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,xps_usb2_device,ip,permanent,_0_0_0                                     C:/.Xilinx\xilinx_ise.lic                                      ANY     00328         Okay                             Yes             
+xps_usb2_device            IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,xps_usb2_device,ip,permanent,_0_0_0                         C:/.Xilinx\xilinx_ise.lic                                      ANY     00329         Okay                             Yes             
+xps_usb_host               IP:Bought              2010.12 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,xps_usb_host,ip,permanent,_0_0_0                                        C:/.Xilinx\xilinx_ise.lic                                      ANY     00330         Okay                             Yes             
+xps_usb_host               IP:Bought              2025.01 Permanent   Nodelocked              Uncounted License_Type:Bought;something@my.door,xps_usb_host,ip,permanent,_0_0_0                            C:/.Xilinx\xilinx_ise.lic                                      ANY     00331         Okay                             Yes             
+PlanAhead                  S/W                    2025.01 Permanent   Nodelocked              Uncounted something@my.door,System_Edition,software,permanent,_0_0_0                                        C:/.Xilinx\xilinx_ise.lic                                      ANY     00332         Okay                             Yes             
+PlanAhead                  S/W                    2025.01 Permanent   Nodelocked              Uncounted something@my.door,Web_Package,software,permanent,_0_0_0                                           C:/.Xilinx\xilinx_ise.lic                                      ANY     00333         Okay                             Yes             
+WebPACK                    S/W                    2025.01 Permanent   Nodelocked              Uncounted something@my.door,Web_Package,software,permanent,_0_0_0                                           C:/.Xilinx\xilinx_ise.lic                                      ANY     00334         Okay                             Yes             
+SDK                        S/W                    2025.01 Permanent   Nodelocked              Uncounted something@my.door,System_Edition,software,permanent,_0_0_0                                        C:/.Xilinx\xilinx_ise.lic                                      ANY     00335         Okay                             Yes             
+ChipScopePro_SIOTK         S/W                    2025.01 Permanent   Nodelocked              Uncounted something@my.door,System_Edition,software,permanent,_0_0_0                                        C:/.Xilinx\xilinx_ise.lic                                      ANY     00336         Okay                             Yes             
+ChipscopePro               S/W                    2025.01 Permanent   Nodelocked              Uncounted something@my.door,System_Edition,software,permanent,_0_0_0                                        C:/.Xilinx\xilinx_ise.lic                                      ANY     00337         Okay                             Yes             
+ISE                        S/W                    2025.01 Permanent   Nodelocked              Uncounted something@my.door,System_Edition,software,permanent,_0_0_0                                        C:/.Xilinx\xilinx_ise.lic                                      ANY     00338         Okay                             Yes             
+ISIM                       S/W                    2025.01 Permanent   Nodelocked              Uncounted something@my.door,System_Edition,software,permanent,_0_0_0                                        C:/.Xilinx\xilinx_ise.lic                                      ANY     00339         Okay                             Yes             
+PlanAhead                  S/W                    2025.01 Permanent   Nodelocked              Uncounted something@my.door,System_Edition,software,permanent,_0_0_0                                        C:/.Xilinx\xilinx_ise.lic                                      ANY     00340         Okay                             Yes             
+PlanAhead                  S/W                    2025.01 Permanent   Nodelocked              Uncounted something@my.door,Web_Package,software,permanent,_0_0_0                                           C:/.Xilinx\xilinx_ise.lic                                      ANY     00341         Okay                             Yes             
+SysGen                     S/W                    2025.01 Permanent   Nodelocked              Uncounted something@my.door,System_Edition,software,permanent,_0_0_0                                        C:/.Xilinx\xilinx_ise.lic                                      ANY     00342         Okay                             Yes             
+XPS                        S/W                    2025.01 Permanent   Nodelocked              Uncounted something@my.door,System_Edition,software,permanent,_0_0_0                                        C:/.Xilinx\xilinx_ise.lic                                      ANY     00343         Okay                             Yes             
+10_100_mb_eth_mac          IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,10_100_mb_eth_mac,ip,permanent,_0_0_0                           C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00344         Okay                             Yes             
+can                        IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,can,ip,permanent,_0_0_0                                         C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00345         Okay                             Yes             
+cpri                       IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,cpri,ip,permanent,_0_0_0                                        C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00346         Okay                             Yes             
+displayport                IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,displayport,ip,permanent,_0_0_0                                 C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00347         Okay                             Yes             
+eth_avb_endpoint           IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,eth_avb_endpoint,ip,permanent,_0_0_0                            C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00348         Okay                             Yes             
+ethernet_statistics        IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,ethernet_statistics,ip,permanent,_0_0_0                         C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00349         Okay                             Yes             
+gfp_v1_3                   IP:Design_Linking      1.0     Permanent   Nodelocked              Uncounted License_Type:Design_Linking                                                                       C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00350         Okay                             Yes             
+gfp_v2                     IP:Design_Linking      1.0     Permanent   Nodelocked              Uncounted License_Type:Design_Linking                                                                       C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00351         Okay                             Yes             
+jesd204                    IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,jesd204,ip,permanent,_0_0_0                                     C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00352         Okay                             Yes             
+lte_rach_detector          IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,lte_rach_detector,ip,permanent,_0_0_0                           C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00353         Okay                             Yes             
+obsai                      IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,obsai,ip,permanent,_0_0_0                                       C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00354         Okay                             Yes             
+pci32                      IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,pci32,ip,permanent,_0_0_0                                       C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00355         Okay                             Yes             
+pci32_spng                 IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,pci32_spng,ip,permanent,_0_0_0                                  C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00356         Okay                             Yes             
+pci64                      IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,pci64,ip,permanent,_0_0_0                                       C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00357         Okay                             Yes             
+pci_express                IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,pci_express,ip,permanent,_0_0_0                                 C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00358         Okay                             Yes             
+pcie_blk_plus              IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,pcie_blk_plus,ip,permanent,_0_0_0                               C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00359         Okay                             Yes             
+pcie_pipe                  IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,pcie_pipe,ip,permanent,_0_0_0                                   C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00360         Okay                             Yes             
+pcie_pipe_v1               IP:Design_Linking      1.0     Permanent   Nodelocked              Uncounted License_Type:Design_Linking                                                                       C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00361         Okay                             Yes             
+pcix_v6                    IP:Design_Linking      1.0     Permanent   Nodelocked              Uncounted License_Type:Design_Linking                                                                       C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00362         Okay                             Yes             
+pl4                        IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,pl4,ip,permanent,_0_0_0                                         C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00363         Okay                             Yes             
+rio_log_io                 IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,rio_log_io,ip,permanent,_0_0_0                                  C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00364         Okay                             Yes             
+s6_pcie                    IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,s6_pcie,ip,permanent,_0_0_0                                     C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00365         Okay                             Yes             
+spdif                      IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,spdif,ip,permanent,_0_0_0                                       C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00366         Okay                             Yes             
+srio_phy                   IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,srio_phy,ip,permanent,_0_0_0                                    C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00367         Okay                             Yes             
+ten_gig_eth_mac            IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,ten_gig_eth_mac,ip,permanent,_0_0_0                             C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00368         Okay                             Yes             
+ten_gig_eth_pcs_pma_basekr IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,ten_gig_eth_pcs_pma_basekr,ip,permanent,_0_0_0                  C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00369         Okay                             Yes             
+ten_gig_eth_pcs_pma        IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,ten_gig_eth_pcs_pma,ip,permanent,_0_0_0                         C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00370         Okay                             Yes             
+tri_mode_eth_mac           IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,tri_mode_eth_mac,ip,permanent,_0_0_0                            C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00371         Okay                             Yes             
+v_ccm                      IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_ccm,ip,permanent,_0_0_0                                       C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00372         Okay                             Yes             
+v_cfa                      IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_cfa,ip,permanent,_0_0_0                                       C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00373         Okay                             Yes             
+v_cresample                IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_cresample,ip,permanent,_0_0_0                                 C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00374         Okay                             Yes             
+v_deinterlacer             IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_deinterlacer,ip,permanent,_0_0_0                              C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00375         Okay                             Yes             
+v_enhance                  IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_enhance,ip,permanent,_0_0_0                                   C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00376         Okay                             Yes             
+v_gamma                    IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_gamma,ip,permanent,_0_0_0                                     C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00377         Okay                             Yes             
+v_ic                       IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_ic,ip,permanent,_0_0_0                                        C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00378         Okay                             Yes             
+v_manr                     IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_manr,ip,permanent,_0_0_0                                      C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00379         Okay                             Yes             
+v_noise                    IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_noise,ip,permanent,_0_0_0                                     C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00380         Okay                             Yes             
+v_objseg                   IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_objseg,ip,permanent,_0_0_0                                    C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00381         Okay                             Yes             
+v_osd                      IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_osd,ip,permanent,_0_0_0                                       C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00382         Okay                             Yes             
+v_scaler                   IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_scaler,ip,permanent,_0_0_0                                    C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00383         Okay                             Yes             
+v_smpte2022_56_rx          IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_smpte2022_56_rx,ip,permanent,_0_0_0                           C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00384         Okay                             Yes             
+v_smpte2022_56_tx          IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_smpte2022_56_tx,ip,permanent,_0_0_0                           C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00385         Okay                             Yes             
+v_spc                      IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_spc,ip,permanent,_0_0_0                                       C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00386         Okay                             Yes             
+v_stats                    IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_stats,ip,permanent,_0_0_0                                     C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00387         Okay                             Yes             
+v_timebase                 IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_timebase,ip,permanent,_0_0_0                                  C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00388         Okay                             Yes             
+v_vdma                     IP:Design_Linking      2012.07 Permanent   Nodelocked              Uncounted License_Type:Design_Linking;ipman,v_vdma,ip,permanent,_0_0_0                                      C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\Xilinx.lic     ANY     00389         Okay                             Yes             
+ten_gig_eth_pcs_pma        IP:Bought              2012.04 Permanent   Nodelocked              Uncounted License_Type:Bought;ipman,ten_gig_eth_pcs_pma,ip,permanent,_0_0_0                                 C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00390         Okay                             Yes             
+PCIE_BLK_PLUS              IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought;Xilinx_Free_IP_Core,PCIE_BLK_PLUS,ip,permanent,_ANY                           C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00391         Okay                             Yes             
+PCIE_BLK_PLUS_classic      IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00392         Okay                             Yes             
+XAUI                       IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought;Xilinx_Free_IP_Core,XAUI,ip,permanent,_ANY                                    C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00393         Okay                             Yes             
+XAUI_classic               IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00394         Okay                             Yes             
+RGB2YCRCB                  IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought;Xilinx_Free_IP_Core,RGB2YCRCB,ip,permanent,_ANY                               C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00395         Okay                             Yes             
+RGB2YCRCB_classic          IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00396         Okay                             Yes             
+S6_PCIE                    IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought;Xilinx_Free_IP_Core,S6_PCIE,ip,permanent,_ANY                                 C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00397         Okay                             Yes             
+S6_PCIE_classic            IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00398         Okay                             Yes             
+V4_EMAC                    IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought;Xilinx_Free_IP_Core,V4_EMAC,ip,permanent,_ANY                                 C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00399         Okay                             Yes             
+V4_EMAC_classic            IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00400         Okay                             Yes             
+V5_EMAC                    IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought;Xilinx_Free_IP_Core,V5_EMAC,ip,permanent,_ANY                                 C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00401         Okay                             Yes             
+V5_EMAC_classic            IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00402         Okay                             Yes             
+V6_EMAC                    IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought;Xilinx_Free_IP_Core,V6_EMAC,ip,permanent,_ANY                                 C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00403         Okay                             Yes             
+V6_EMAC_classic            IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00404         Okay                             Yes             
+V6_PCIE                    IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought;Xilinx_Free_IP_Core,V6_PCIE,ip,permanent,_ANY                                 C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00405         Okay                             Yes             
+V6_PCIE_classic            IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00406         Okay                             Yes             
+YCRCB2RGB                  IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought;Xilinx_Free_IP_Core,YCRCB2RGB,ip,permanent,_ANY                               C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00407         Okay                             Yes             
+YCRCB2RGB_classic          IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00408         Okay                             Yes             
+v_ycrcb2rgb_v2             IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00409         Okay                             Yes             
+v_ycrcb2rgb                IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought;Xilinx_Free_IP_Core,YCRCB2RGB,ip,permanent,_ANY                               C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00410         Okay                             Yes             
+v6_pcie_v1                 IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00411         Okay                             Yes             
+v6_emac_v1                 IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00412         Okay                             Yes             
+v5_emac_v1                 IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00413         Okay                             Yes             
+v4_emac_v4                 IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00414         Okay                             Yes             
+s6_pcie_v1                 IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00415         Okay                             Yes             
+v_rgb2ycrcb_v2             IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00416         Okay                             Yes             
+v_rgb2ycrcb                IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought;Xilinx_Free_IP_Core,RGB2YCRCB,ip,permanent,_ANY                               C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00417         Okay                             Yes             
+xaui_v6                    IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00418         Okay                             Yes             
+xaui_v3_0                  IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00419         Okay                             Yes             
+xaui_v8                    IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00420         Okay                             Yes             
+xaui_v5_0                  IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00421         Okay                             Yes             
+xaui_v7                    IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00422         Okay                             Yes             
+xaui_v4_0                  IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00423         Okay                             Yes             
+pcie_blk_plus_v1           IP:Bought              2010.08 Permanent   Nodelocked              Uncounted License_Type:Bought                                                                               C:\Xilinx\14.2\ISE_DS\ISE/coregen/core_licenses\XilinxFree.lic ANY     00424         Okay                             Yes             
+apu_fpu                    IP:Hardware_Evaluation 2012.07 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,apu_fpu,ip,permanent,_0_0_0                                C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00425         Okay                             Yes             
+apu_fpu_v2                 IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00426         Okay                             Yes             
+apu_fpu_virtex5            IP:Hardware_Evaluation 2012.07 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,apu_fpu_virtex5,ip,permanent,_0_0_0                        C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00427         Okay                             Yes             
+apu_fpu_virtex5_v1         IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00428         Okay                             Yes             
+axi_can                    IP:Hardware_Evaluation 2012.07 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,axi_can,ip,permanent,_0_0_0                                C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00429         Okay                             Yes             
+axi_ethernet_avb           IP:Hardware_Evaluation 2012.07 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,axi_ethernet_avb,ip,permanent,_0_0_0                       C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00430         Okay                             Yes             
+axi_ethernet_soft_10_100   IP:Hardware_Evaluation 2012.07 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,axi_ethernet_soft_10_100,ip,permanent,_0_0_0               C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00431         Okay                             Yes             
+axi_ethernet_soft_tri_mode IP:Hardware_Evaluation 2012.07 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,axi_ethernet_soft_tri_mode,ip,permanent,_0_0_0             C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00432         Okay                             Yes             
+axi_usb2_device            IP:Hardware_Evaluation 2012.07 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,axi_usb2_device,ip,permanent,_0_0_0                        C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00433         Okay                             Yes             
+plbv46_pci                 IP:Hardware_Evaluation 2012.07 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,plbv46_pci,ip,permanent,_0_0_0                             C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00434         Okay                             Yes             
+plbv46_pci_v1              IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00435         Okay                             Yes             
+plbv46_pcie                IP:Hardware_Evaluation 2012.07 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,plbv46_pcie,ip,permanent,_0_0_0                            C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00436         Okay                             Yes             
+plbv46_pcie_v3             IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00437         Okay                             Yes             
+soft_temac_wrap            IP:Hardware_Evaluation 2012.07 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,soft_temac_wrap,ip,permanent,_0_0_0                        C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00438         Okay                             Yes             
+soft_temac_wrap_v1         IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00439         Okay                             Yes             
+soft_temac_wrap_v2         IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00440         Okay                             Yes             
+xps_can                    IP:Design_Linking      2012.07 30-jan-2016 Nodelocked              Uncounted License_Type:Design_Linking;ipman,xps_can,ip,permanent,_0_0_0                                     C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00441         Okay                             Yes             
+xps_can_v1                 IP:Design_Linking      1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Design_Linking                                                                       C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00442         Okay                             Yes             
+xps_can_v2                 IP:Design_Linking      1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Design_Linking                                                                       C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00443         Okay                             Yes             
+xps_ethernetlite           IP:Hardware_Evaluation 2012.07 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,xps_ethernetlite,ip,permanent,_0_0_0                       C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00444         Okay                             Yes             
+xps_ethernetlite_v1        IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00445         Okay                             Yes             
+xps_flexray                IP:Hardware_Evaluation 2012.07 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,xps_flexray,ip,permanent,_0_0_0                            C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00446         Okay                             Yes             
+xps_flexray_v1             IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00447         Okay                             Yes             
+xps_iic                    IP:Hardware_Evaluation 2012.07 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,xps_iic,ip,permanent,_0_0_0                                C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00448         Okay                             Yes             
+xps_iic_v1                 IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00449         Okay                             Yes             
+xps_iic_v2                 IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00450         Okay                             Yes             
+xps_ll_temac               IP:Hardware_Evaluation 2012.07 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,xps_ll_temac,ip,permanent,_0_0_0                           C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00451         Okay                             Yes             
+xps_ll_temac_v1            IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00452         Okay                             Yes             
+xps_ll_temac_v2            IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00453         Okay                             Yes             
+xps_most_nic               IP:Hardware_Evaluation 2012.07 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,xps_most_nic,ip,permanent,_0_0_0                           C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00454         Okay                             Yes             
+xps_most_nic_v1            IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00455         Okay                             Yes             
+xps_uart16550              IP:Hardware_Evaluation 2012.07 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,xps_uart16550,ip,permanent,_0_0_0                          C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00456         Okay                             Yes             
+xps_uart16550_v1           IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00457         Okay                             Yes             
+xps_usb2_device            IP:Hardware_Evaluation 2012.07 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,xps_usb2_device,ip,permanent,_0_0_0                        C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00458         Okay                             Yes             
+xps_usb2_device_v1         IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00459         Okay                             Yes             
+xps_usb2_device_v2         IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00460         Okay                             Yes             
+xps_usb_host               IP:Hardware_Evaluation 2012.07 30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation;ipman,xps_usb_host,ip,permanent,_0_0_0                           C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00461         Okay                             Yes             
+xps_usb_host_v1            IP:Hardware_Evaluation 1.0     30-jan-2016 Nodelocked              Uncounted License_Type:Hardware_Evaluation                                                                  C:\Xilinx\14.2\ISE_DS\EDK/data/core_licenses\Xilinx.lic        ANY     00462         Okay                             Yes             
+
+*************************************
+* The version of system dlls called by Xilinx software: 
+*************************************
+File Name:     ADVAPI32.dll
+Dll Version:   6.02.17134.471
+File Size:     481880
+Create Time:   Fri Jan 25 18:48:44 2019
+Access Time:   Sun Aug 04 18:17:59 2019
+Modified Time: Sat Dec 08 18:11:05 2018
+File Path: C:\WINDOWS\System32\ADVAPI32.dll
+
+File Name:     COMCTL32.dll
+Dll Version:   5.82.17134.48
+File Size:     573848
+Create Time:   Fri Jan 25 21:44:10 2019
+Access Time:   Sun Aug 04 22:19:57 2019
+Modified Time: Fri Jan 25 21:44:10 2019
+File Path: C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.17134.885_none_41037d0a450e54c0\COMCTL32.dll
+
+File Name:     comdlg32.dll
+Dll Version:   6.02.17134.01
+File Size:     847872
+Create Time:   Thu Apr 12 05:04:59 2018
+Access Time:   Sun Aug 04 18:17:59 2019
+Modified Time: Thu Apr 12 05:04:59 2018
+File Path: C:\WINDOWS\System32\COMDLG32.dll
+
+File Name:     CRYPT32.dll
+Dll Version:   6.02.17134.01
+File Size:     1658024
+Create Time:   Thu Apr 12 05:04:50 2018
+Access Time:   Sun Aug 04 18:17:59 2019
+Modified Time: Thu Apr 12 05:04:50 2018
+File Path: C:\WINDOWS\system32\CRYPT32.dll
+
+File Name:     dbghelp.dll
+Dll Version:   6.02.17134.01
+File Size:     1435648
+Create Time:   Thu Apr 12 05:04:51 2018
+Access Time:   Sun Aug 04 22:51:52 2019
+Modified Time: Thu Apr 12 05:04:51 2018
+File Path: C:\WINDOWS\system32\dbghelp.dll
+
+File Name:     DCIMAN32.dll
+Dll Version:   6.02.17134.01
+File Size:     11776
+Create Time:   Thu Apr 12 05:04:51 2018
+Access Time:   Sun Aug 04 22:51:53 2019
+Modified Time: Thu Apr 12 05:04:51 2018
+File Path: C:\WINDOWS\system32\DCIMAN32.dll
+
+File Name:     DDRAW.dll
+Dll Version:   6.02.17134.01
+File Size:     533504
+Create Time:   Thu Apr 12 05:04:50 2018
+Access Time:   Sun Aug 04 22:51:53 2019
+Modified Time: Thu Apr 12 05:04:50 2018
+File Path: C:\WINDOWS\system32\DDRAW.dll
+
+File Name:     GDI32.dll
+Dll Version:   6.02.17134.285
+File Size:     134936
+Create Time:   Fri Jan 25 21:44:06 2019
+Access Time:   Sun Aug 04 18:17:59 2019
+Modified Time: Fri Jan 25 21:44:06 2019
+File Path: C:\WINDOWS\System32\GDI32.dll
+
+File Name:     GLU32.dll
+Dll Version:   6.02.17134.01
+File Size:     245760
+Create Time:   Thu Apr 12 05:04:57 2018
+Access Time:   Sat Mar 09 00:38:55 2019
+Modified Time: Thu Apr 12 05:04:57 2018
+File Path: C:\WINDOWS\system32\GLU32.dll
+
+File Name:     IMM32.DLL
+Dll Version:   6.02.17134.01
+File Size:     147288
+Create Time:   Thu Apr 12 05:04:50 2018
+Access Time:   Sun Aug 04 18:17:59 2019
+Modified Time: Thu Apr 12 05:04:50 2018
+File Path: C:\WINDOWS\System32\IMM32.dll
+
+File Name:     KERNEL32.dll
+Dll Version:   6.02.17134.753
+File Size:     607960
+Create Time:   Sat Jul 13 19:40:02 2019
+Access Time:   Sun Aug 04 18:17:59 2019
+Modified Time: Fri Apr 19 15:07:54 2019
+File Path: C:\WINDOWS\System32\KERNEL32.DLL
+
+File Name:     LZ32.dll
+Dll Version:   5.00.01.01
+File Size:     2560
+Create Time:   Thu Apr 12 05:04:51 2018
+Access Time:   Sat Mar 09 00:37:34 2019
+Modified Time: Thu Apr 12 05:04:51 2018
+File Path: C:\WINDOWS\system32\LZ32.dll
+
+File Name:     MFC42.DLL
+Dll Version:   6.06.8063.00
+File Size:     1212928
+Create Time:   Thu Apr 12 05:05:01 2018
+Access Time:   Sun Aug 04 18:19:02 2019
+Modified Time: Thu Apr 12 05:05:01 2018
+File Path: C:\WINDOWS\system32\MFC42.DLL
+
+File Name:     MPR.dll
+Dll Version:   6.02.17134.677
+File Size:     90360
+Create Time:   Thu Mar 28 04:02:28 2019
+Access Time:   Sun Aug 04 22:34:23 2019
+Modified Time: Thu Mar 14 14:08:02 2019
+File Path: C:\WINDOWS\SYSTEM32\MPR.dll
+
+File Name:     MSASN1.dll
+Dll Version:   6.02.17134.01
+File Size:     49656
+Create Time:   Thu Apr 12 05:04:50 2018
+Access Time:   Sun Aug 04 18:17:59 2019
+Modified Time: Thu Apr 12 05:04:50 2018
+File Path: C:\WINDOWS\system32\MSASN1.dll
+
+File Name:     MSVCIRT.dll
+Dll Version:   7.00.17134.01
+File Size:     66048
+Create Time:   Thu Apr 12 05:05:00 2018
+Access Time:   Sat Mar 09 00:38:42 2019
+Modified Time: Thu Apr 12 05:05:00 2018
+File Path: C:\WINDOWS\system32\MSVCIRT.dll
+
+File Name:     MSVCP80.DLL
+Dll Version:   Can't find the specified dll.
+File Size:     
+Create Time:   Access Time:   Modified Time: File Path: 
+
+File Name:     MSVCR71.dll
+Dll Version:   7.10.6030.00
+File Size:     348160
+Create Time:   Tue Jul 11 17:35:38 2006
+Access Time:   Mon Jul 22 22:22:25 2019
+Modified Time: Tue Jul 11 17:35:38 2006
+File Path: C:\WINDOWS\system32\MSVCR71.dll
+
+File Name:     MSVCR80.DLL
+Dll Version:   Can't find the specified dll.
+File Size:     
+Create Time:   Access Time:   Modified Time: File Path: 
+
+File Name:     MSVCRT.dll
+Dll Version:   7.00.17134.01
+File Size:     774288
+Create Time:   Thu Apr 12 05:05:01 2018
+Access Time:   Sun Aug 04 18:17:59 2019
+Modified Time: Thu Apr 12 05:05:01 2018
+File Path: C:\WINDOWS\System32\msvcrt.dll
+
+File Name:     NETAPI32.dll
+Dll Version:   6.02.17134.01
+File Size:     69288
+Create Time:   Thu Apr 12 05:04:49 2018
+Access Time:   Sun Aug 04 22:58:44 2019
+Modified Time: Thu Apr 12 05:04:49 2018
+File Path: C:\WINDOWS\SYSTEM32\NETAPI32.dll
+
+File Name:     NETRAP.dll
+Dll Version:   Can't find the specified dll.
+File Size:     
+Create Time:   Access Time:   Modified Time: File Path: 
+
+File Name:     ntdll.dll
+Dll Version:   6.02.17134.799
+File Size:     1620264
+Create Time:   Mon Jul 15 12:15:56 2019
+Access Time:   Sun Aug 04 18:17:59 2019
+Modified Time: Fri May 17 12:12:34 2019
+File Path: C:\WINDOWS\SYSTEM32\ntdll.dll
+
+File Name:     ole32.dll
+Dll Version:   6.02.17134.858
+File Size:     1027008
+Create Time:   Mon Jul 15 12:15:49 2019
+Access Time:   Sun Aug 04 18:17:59 2019
+Modified Time: Thu Jun 13 15:37:28 2019
+File Path: C:\WINDOWS\System32\ole32.dll
+
+File Name:     OLEAUT32.dll
+Dll Version:   6.02.17134.706
+File Size:     604008
+Create Time:   Fri Apr 12 02:12:57 2019
+Access Time:   Sun Aug 04 18:17:59 2019
+Modified Time: Tue Apr 02 10:34:43 2019
+File Path: C:\WINDOWS\System32\OLEAUT32.dll
+
+File Name:     oledlg.dll
+Dll Version:   6.02.17134.01
+File Size:     150528
+Create Time:   Thu Apr 12 05:04:48 2018
+Access Time:   Fri Apr 26 18:39:05 2019
+Modified Time: Thu Apr 12 05:04:48 2018
+File Path: C:\WINDOWS\system32\oledlg.dll
+
+File Name:     OPENGL32.dll
+Dll Version:   6.02.17134.01
+File Size:     757248
+Create Time:   Thu Apr 12 05:04:57 2018
+Access Time:   Sat Mar 09 00:38:55 2019
+Modified Time: Thu Apr 12 05:04:57 2018
+File Path: C:\WINDOWS\system32\OPENGL32.dll
+
+File Name:     RPCRT4.dll
+Dll Version:   6.02.17134.648
+File Size:     785568
+Create Time:   Wed Mar 13 17:07:01 2019
+Access Time:   Sun Aug 04 18:17:59 2019
+Modified Time: Wed Mar 06 11:44:32 2019
+File Path: C:\WINDOWS\System32\RPCRT4.dll
+
+File Name:     SAMLIB.dll
+Dll Version:   6.02.17134.01
+File Size:     84992
+Create Time:   Thu Apr 12 05:04:50 2018
+Access Time:   Sat Mar 09 00:37:33 2019
+Modified Time: Thu Apr 12 05:04:50 2018
+File Path: C:\WINDOWS\system32\SAMLIB.dll
+
+File Name:     SECUR32.DLL
+Dll Version:   6.02.17134.01
+File Size:     23040
+Create Time:   Thu Apr 12 05:04:57 2018
+Access Time:   Sun Aug 04 22:21:50 2019
+Modified Time: Thu Apr 12 05:04:57 2018
+File Path: C:\WINDOWS\system32\SECUR32.DLL
+
+File Name:     SETUPAPI.dll
+Dll Version:   6.02.17134.01
+File Size:     4403720
+Create Time:   Thu Apr 12 05:04:58 2018
+Access Time:   Sun Aug 04 18:17:59 2019
+Modified Time: Thu Apr 12 05:04:58 2018
+File Path: C:\WINDOWS\system32\SETUPAPI.dll
+
+File Name:     SHELL32.dll
+Dll Version:   6.02.17134.885
+File Size:     20384128
+Create Time:   Mon Jul 15 12:16:06 2019
+Access Time:   Sun Aug 04 18:17:59 2019
+Modified Time: Thu Jul 04 14:21:44 2019
+File Path: C:\WINDOWS\System32\SHELL32.dll
+
+File Name:     SHLWAPI.DLL
+Dll Version:   6.02.17134.01
+File Size:     278960
+Create Time:   Thu Apr 12 05:04:59 2018
+Access Time:   Sun Aug 04 18:17:59 2019
+Modified Time: Thu Apr 12 05:04:59 2018
+File Path: C:\WINDOWS\System32\SHLWAPI.dll
+
+File Name:     SNMPAPI.DLL
+Dll Version:   6.02.17134.01
+File Size:     25600
+Create Time:   Thu Apr 12 05:04:48 2018
+Access Time:   Sun Aug 04 23:17:09 2019
+Modified Time: Thu Apr 12 05:04:48 2018
+File Path: C:\WINDOWS\SYSTEM32\snmpapi.dll
+
+File Name:     urlmon.dll
+Dll Version:   11.00.17134.799
+File Size:     1630720
+Create Time:   Mon Jul 15 12:15:56 2019
+Access Time:   Sun Aug 04 22:21:50 2019
+Modified Time: Fri May 17 11:49:29 2019
+File Path: C:\WINDOWS\system32\urlmon.dll
+
+File Name:     USER32.dll
+Dll Version:   6.02.17134.376
+File Size:     1626656
+Create Time:   Fri Jan 25 21:44:06 2019
+Access Time:   Sun Aug 04 18:17:59 2019
+Modified Time: Fri Jan 25 21:44:06 2019
+File Path: C:\WINDOWS\System32\USER32.dll
+
+File Name:     VERSION.dll
+Dll Version:   6.02.17134.01
+File Size:     27424
+Create Time:   Thu Apr 12 05:05:00 2018
+Access Time:   Sun Aug 04 22:25:54 2019
+Modified Time: Thu Apr 12 05:05:00 2018
+File Path: C:\WINDOWS\SYSTEM32\VERSION.dll
+
+File Name:     WINHTTP.dll
+Dll Version:   6.02.17134.590
+File Size:     720480
+Create Time:   Sat Feb 16 15:19:01 2019
+Access Time:   Sun Aug 04 22:21:54 2019
+Modified Time: Wed Feb 06 08:31:39 2019
+File Path: C:\WINDOWS\system32\WINHTTP.dll
+
+File Name:     WININET.dll
+Dll Version:   11.00.17134.799
+File Size:     4515840
+Create Time:   Mon Jul 15 12:16:25 2019
+Access Time:   Sun Aug 04 22:21:50 2019
+Modified Time: Fri May 17 11:49:17 2019
+File Path: C:\WINDOWS\system32\WININET.dll
+
+File Name:     WINMM.DLL
+Dll Version:   6.02.17134.01
+File Size:     134920
+Create Time:   Thu Apr 12 05:04:45 2018
+Access Time:   Sun Aug 04 22:21:58 2019
+Modified Time: Thu Apr 12 05:04:45 2018
+File Path: C:\WINDOWS\SYSTEM32\WINMM.dll
+
+File Name:     WINSPOOL.DRV
+Dll Version:   6.02.17134.753
+File Size:     423936
+Create Time:   Sat Jul 13 19:40:01 2019
+Access Time:   Sun Aug 04 22:21:58 2019
+Modified Time: Fri Apr 19 14:55:00 2019
+File Path: C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+
+File Name:     WS2HELP.dll
+Dll Version:   6.02.17134.01
+File Size:     4096
+Create Time:   Thu Apr 12 05:04:55 2018
+Access Time:   Sat Mar 09 00:39:05 2019
+Modified Time: Thu Apr 12 05:04:55 2018
+File Path: C:\WINDOWS\system32\WS2HELP.dll
+
+File Name:     WS2_32.dll
+Dll Version:   6.02.17134.01
+File Size:     412792
+Create Time:   Thu Apr 12 05:05:02 2018
+Access Time:   Sun Aug 04 18:17:59 2019
+Modified Time: Thu Apr 12 05:05:02 2018
+File Path: C:\WINDOWS\System32\WS2_32.dll
+
+File Name:     WSOCK32.dll
+Dll Version:   6.02.17134.01
+File Size:     16384
+Create Time:   Thu Apr 12 05:04:55 2018
+Access Time:   Sun Aug 04 22:21:58 2019
+Modified Time: Thu Apr 12 05:04:55 2018
+File Path: C:\WINDOWS\SYSTEM32\WSOCK32.dll
+
